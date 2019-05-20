@@ -19,6 +19,10 @@
 - tool/ :  KptrTools which includes KptrLib, KptrLkm, TinySysFuzz, ...
 - exploit/ :  Real-world exploitation codes
 
+### Slide
+
+- Slide presented at Zer0Con 2019 [leak-kptr.pdf](leak-kptr.pdf)
+
 ### Contact
 
 - jinb.park7@gmail.com
