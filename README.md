@@ -21,7 +21,7 @@
 
 ### Slide
 
-- Slide presented at Zer0Con 2019 [leak-kptr.pdf](leak-kptr.pdf)
+- Slide presented at Zer0Con 2019 [leak-kptr.pdf](https://jinb-park.github.io/archives/leak-kptr.pdf)
 
 ### Contact
 
